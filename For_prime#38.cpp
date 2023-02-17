@@ -20,10 +20,10 @@ int main()
             if(isprime==0){
                 
                 cout<< n;  
-                cout<< " is not a prime No"<<endl;
+                cout<< " is not a Prime Number"<<endl;
             }
             else{cout<< n; 
-            cout<< " is a prime No"<<endl;}
+            cout<< " is a Prime Number"<<endl;}
 
 
     
